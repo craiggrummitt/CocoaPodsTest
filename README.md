@@ -22,7 +22,7 @@ pod 'Testy'
 
 ## Author
 
-iosappdevelopmentwithswift@gmail.com, craiggrummitt@gmail.com
+craiggrummitt@gmail.com
 
 ## License
 
